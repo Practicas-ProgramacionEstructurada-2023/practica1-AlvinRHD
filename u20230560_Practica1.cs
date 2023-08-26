@@ -17,7 +17,7 @@ namespace Myapp
             string ciclo = "Ciclo 02";
             bool estudianteBecado = true; 
 
-            //Mostramos la inf
+            //Mostramos la informacion
             Console.WriteLine("Información Personal:"); 
             Console.WriteLine("Mi nombre es: " + nombre); //Concatenación para mostrar nuestro nombre y así sucecivamente con edad, genero etc.
             Console.WriteLine("Mi edad es: " + edad);
